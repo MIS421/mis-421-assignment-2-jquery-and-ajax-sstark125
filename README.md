@@ -8,7 +8,7 @@
   5. On the next page, fill out the required info accordingly:
      1. Name: mybamaID-421-search-api
      2. Subscription: Azure for Students
-     3. Pricing tier: F0
+     3. Pricing tier: F1
      4. Resource group: Click 'Create new' under the dropdown menu, give the new group a name and click OK.
      5. Resource group location: (US) Central US
   6. Click Create at the bottom of the page. Wait for Azure to deploy the API.
