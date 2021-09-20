@@ -7,7 +7,7 @@
   4. Click 'Bing Search v7' from the options on the right.
   5. On the next page, fill out the required info accordingly:
      1. Name: mybamaID-421-search-api
-     2. Subscription: Azure for Students
+     2. Subscription: Whatever your assignment 2 subscription displays as
      3. Pricing tier: F1
      4. Resource group: Click 'Create new' under the dropdown menu, give the new group a name and click OK.
      5. Resource group location: (US) Central US
