@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "aGbtyiipE9jaGZuB1KlDozsVOFHPMeca8InMz9Cxmhg=",
+  "Source": "FA2024-Assignment2-sstark1",
+  "BasePath": "_content/FA2024-Assignment2-sstark1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FA2024-Assignment2-sstark1\\wwwroot",
+      "Source": "FA2024-Assignment2-sstark1",
+      "ContentRoot": "C:\\Users\\sstark1\\Desktop\\MIS 521\\source\\repos\\FA2024-Assignment2-sstark1\\wwwroot\\",
+      "BasePath": "_content/FA2024-Assignment2-sstark1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sstark1\\Desktop\\MIS 521\\source\\repos\\FA2024-Assignment2-sstark1\\wwwroot\\index.css",
+      "SourceId": "FA2024-Assignment2-sstark1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sstark1\\Desktop\\MIS 521\\source\\repos\\FA2024-Assignment2-sstark1\\wwwroot\\",
+      "BasePath": "_content/FA2024-Assignment2-sstark1",
+      "RelativePath": "index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.css"
+    },
+    {
+      "Identity": "C:\\Users\\sstark1\\Desktop\\MIS 521\\source\\repos\\FA2024-Assignment2-sstark1\\wwwroot\\index.html",
+      "SourceId": "FA2024-Assignment2-sstark1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sstark1\\Desktop\\MIS 521\\source\\repos\\FA2024-Assignment2-sstark1\\wwwroot\\",
+      "BasePath": "_content/FA2024-Assignment2-sstark1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\sstark1\\Desktop\\MIS 521\\source\\repos\\FA2024-Assignment2-sstark1\\wwwroot\\index.js",
+      "SourceId": "FA2024-Assignment2-sstark1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sstark1\\Desktop\\MIS 521\\source\\repos\\FA2024-Assignment2-sstark1\\wwwroot\\",
+      "BasePath": "_content/FA2024-Assignment2-sstark1",
+      "RelativePath": "index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.js"
+    }
+  ]
+}

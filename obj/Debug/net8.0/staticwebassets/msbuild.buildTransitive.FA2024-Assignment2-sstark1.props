@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FA2024-Assignment2-sstark1.props" />
+</Project>
