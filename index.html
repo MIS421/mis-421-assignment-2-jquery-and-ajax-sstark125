@@ -1,6 +1,86 @@
-﻿namespace FA2024_Assignment1_sstark.wwwroot
-{
-    public class index
-    {
-    }
-}
+﻿<!DOCTYPE html>
+
+
+
+<html lang="en">
+
+<head>
+    <title>Football Finder</title>
+    <link rel="shortcut icon" href="./images/banana.ico" />
+    <!-- JQuery UI Theme CSS CDN -->
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.14.0/themes/le-frog/jquery-ui.css" integrity="sha384-kXy/p1O1SB3PWY8DESOA5j/YOBKp/fC0X4Lu36b70xv8RLsP3u9pxIpFN3Kp0lGG" crossorigin="anonymous">
+    <!--Local CSS-->
+    <link rel="stylesheet" href="./index.css" />
+
+</head>
+
+<body id="body">
+
+    <div id="maincontent">
+
+        <h1 id="title" onclick="backgroundImageChanger()">Football Finder</h1>
+
+        <textarea id="query"
+                  class="ui-widget ui-state-default ui-corner-all"
+                  placeholder="Run a play..."
+                  maxlength="300"></textarea>
+
+        <br />
+
+        <button class="ui-button ui-corner-all ui-widget"
+                type="button"
+                id="myBtn"
+                value="Search"
+                onclick="QuerySearch()">
+
+            Hike
+
+        </button>
+
+        <button class="ui-button ui-corner-all ui-widget"
+                type="button"
+                id="myBtn"
+                value="Search"
+                onclick="updateTimeTextBox()">
+
+            Current GameTime
+
+        </button>
+
+        <button class="ui-button ui-corner-all ui-widget" id="hailMary" onclick="throwHailMary()">
+
+            Hail Mary
+
+        </button>
+
+    </div>
+
+
+
+    <div id="searchResults"></div>
+
+
+
+    <div id="time"></div>
+
+
+
+    <!-- JQuery JS CDN -->
+
+    <script src="https://code.jquery.com/jquery-3.6.0.js"
+            integrity="sha384-S58meLBGKxIiQmJ/pJ8ilvFUcGcqgla+mWH9EEKGm6i6rKxSTA2kpXJQJ8n7XK4w"
+            crossorigin="anonymous"></script>
+
+    <!-- JQurey UI JS CDN -->
+
+    <script src=https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js
+            integrity="sha384-4D3G3GikQs6hLlLZGdz5wLFzuqE9v4yVGAcOH86y23JqBDPzj9viv0EqyfIa6YUL"
+            crossorigin="anonymous"></script>
+
+    <!--Local JS-->
+
+    <script type="text/javascript" src="./index.js"></script>
+
+</body>
+
+</html>
